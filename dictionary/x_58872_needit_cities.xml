@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Cities" max_length="40" name="x_58872_needit_cities" type="collection">
+        <element label="id" max_length="40" name="id" type="integer"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="state" max_length="40" name="state" type="string"/>
+    </element>
+</database>

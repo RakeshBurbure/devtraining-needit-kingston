@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_grid_canvas" unload_date="2018-09-04 09:36:51">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab">28351b2b4f002300d83e4ebf9310c7ac</legacy_page>
+        <name>PA New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>Rakesh</sys_created_by>
+        <sys_created_on>2018-08-27 07:06:21</sys_created_on>
+        <sys_id>64351b2b4f002300d83e4ebf9310c7ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_64351b2b4f002300d83e4ebf9310c7ad</sys_update_name>
+        <sys_updated_by>Rakesh</sys_updated_by>
+        <sys_updated_on>2018-08-27 07:06:21</sys_updated_on>
+        <related_items_node>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">64351b2b4f002300d83e4ebf9310c7ad</grid_canvas>
+                <height>14</height>
+                <portal_widget display_value="Created 27/08/2018 00:06:51">f7455be74f002300d83e4ebf9310c7f6</portal_widget>
+                <posx>0</posx>
+                <posy>0</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>Rakesh</sys_created_by>
+                <sys_created_on>2018-08-27 07:06:51</sys_created_on>
+                <sys_id>3b455be74f002300d83e4ebf9310c7f9</sys_id>
+                <sys_mod_count>20</sys_mod_count>
+                <sys_name>64351b2b4f002300d83e4ebf9310c7ad</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_3b455be74f002300d83e4ebf9310c7f9</sys_update_name>
+                <sys_updated_by>Rakesh</sys_updated_by>
+                <sys_updated_on>2018-08-28 06:35:02</sys_updated_on>
+                <width>12</width>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">28351b2b4f002300d83e4ebf9310c7ac</page>
+                        <summary>694 All Requests</summary>
+                        <sys_created_by>Rakesh</sys_created_by>
+                        <sys_created_on>2018-08-27 07:06:51</sys_created_on>
+                        <sys_id>f7455be74f002300d83e4ebf9310c7f6</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Rakesh</sys_updated_by>
+                        <sys_updated_on>2018-08-27 07:06:51</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">64351b2b4f002300d83e4ebf9310c7ad</grid_canvas>
+                                <height>14</height>
+                                <portal_widget display_value="Created 27/08/2018 00:06:51">f7455be74f002300d83e4ebf9310c7f6</portal_widget>
+                                <posx>0</posx>
+                                <posy>0</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:06:51</sys_created_on>
+                                <sys_id>3b455be74f002300d83e4ebf9310c7f9</sys_id>
+                                <sys_mod_count>20</sys_mod_count>
+                                <sys_name>64351b2b4f002300d83e4ebf9310c7ad</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_3b455be74f002300d83e4ebf9310c7f9</sys_update_name>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-28 06:35:02</sys_updated_on>
+                                <width>12</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 27/08/2018 00:06:51">f7455be74f002300d83e4ebf9310c7f6</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:06:51</sys_created_on>
+                                <sys_id>33455be74f002300d83e4ebf9310c7f8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:06:51</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 27/08/2018 00:06:51">f7455be74f002300d83e4ebf9310c7f6</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:06:51</sys_created_on>
+                                <sys_id>7b455be74f002300d83e4ebf9310c7f8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:06:51</sys_updated_on>
+                                <value>694 All Requests</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 27/08/2018 00:06:51">f7455be74f002300d83e4ebf9310c7f6</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:06:51</sys_created_on>
+                                <sys_id>7f455be74f002300d83e4ebf9310c7f7</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:06:51</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 27/08/2018 00:06:51">f7455be74f002300d83e4ebf9310c7f6</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:06:51</sys_created_on>
+                                <sys_id>b3455be74f002300d83e4ebf9310c7f7</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:06:51</sys_updated_on>
+                                <value>895ecbe34f002300d83e4ebf9310c7e3</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 27/08/2018 00:06:51">f7455be74f002300d83e4ebf9310c7f6</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:06:51</sys_created_on>
+                                <sys_id>b7455be74f002300d83e4ebf9310c7f8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:06:51</sys_updated_on>
+                                <value>list</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 27/08/2018 00:06:51">f7455be74f002300d83e4ebf9310c7f6</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:06:51</sys_created_on>
+                                <sys_id>f3455be74f002300d83e4ebf9310c7f8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:06:51</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">28351b2b4f002300d83e4ebf9310c7ac</page>
+                        <summary>694 Passed Due Date List</summary>
+                        <sys_created_by>Rakesh</sys_created_by>
+                        <sys_created_on>2018-08-27 07:07:56</sys_created_on>
+                        <sys_id>4c955f2b4f002300d83e4ebf9310c716</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Rakesh</sys_updated_by>
+                        <sys_updated_on>2018-08-27 07:07:56</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">64351b2b4f002300d83e4ebf9310c7ad</grid_canvas>
+                                <height>14</height>
+                                <portal_widget display_value="Created 27/08/2018 00:07:56">4c955f2b4f002300d83e4ebf9310c716</portal_widget>
+                                <posx>0</posx>
+                                <posy>26</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:56</sys_created_on>
+                                <sys_id>88955f2b4f002300d83e4ebf9310c718</sys_id>
+                                <sys_mod_count>26</sys_mod_count>
+                                <sys_name>64351b2b4f002300d83e4ebf9310c7ad</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_88955f2b4f002300d83e4ebf9310c718</sys_update_name>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-28 06:36:41</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 27/08/2018 00:07:56">4c955f2b4f002300d83e4ebf9310c716</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:56</sys_created_on>
+                                <sys_id>0c955f2b4f002300d83e4ebf9310c717</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:07:56</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 27/08/2018 00:07:56">4c955f2b4f002300d83e4ebf9310c716</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:56</sys_created_on>
+                                <sys_id>40955f2b4f002300d83e4ebf9310c717</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:07:56</sys_updated_on>
+                                <value>e9a4d32b4f002300d83e4ebf9310c714</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 27/08/2018 00:07:56">4c955f2b4f002300d83e4ebf9310c716</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:56</sys_created_on>
+                                <sys_id>48955f2b4f002300d83e4ebf9310c717</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:07:56</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 27/08/2018 00:07:56">4c955f2b4f002300d83e4ebf9310c716</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:56</sys_created_on>
+                                <sys_id>80955f2b4f002300d83e4ebf9310c718</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:07:56</sys_updated_on>
+                                <value>694 Passed Due Date List</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 27/08/2018 00:07:56">4c955f2b4f002300d83e4ebf9310c716</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:56</sys_created_on>
+                                <sys_id>84955f2b4f002300d83e4ebf9310c717</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:07:56</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 27/08/2018 00:07:56">4c955f2b4f002300d83e4ebf9310c716</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:56</sys_created_on>
+                                <sys_id>cc955f2b4f002300d83e4ebf9310c717</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:07:56</sys_updated_on>
+                                <value>list</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">28351b2b4f002300d83e4ebf9310c7ac</page>
+                        <summary>694 Passed due date chart</summary>
+                        <sys_created_by>Rakesh</sys_created_by>
+                        <sys_created_on>2018-08-27 12:18:25</sys_created_on>
+                        <sys_id>4cacd87f4f802300d83e4ebf9310c7b3</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Rakesh</sys_updated_by>
+                        <sys_updated_on>2018-08-27 12:18:25</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">64351b2b4f002300d83e4ebf9310c7ad</grid_canvas>
+                                <height>14</height>
+                                <portal_widget display_value="Created 27/08/2018 05:18:25">4cacd87f4f802300d83e4ebf9310c7b3</portal_widget>
+                                <posx>6</posx>
+                                <posy>26</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 12:18:26</sys_created_on>
+                                <sys_id>88acd87f4f802300d83e4ebf9310c7b6</sys_id>
+                                <sys_mod_count>17</sys_mod_count>
+                                <sys_name>64351b2b4f002300d83e4ebf9310c7ad</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_88acd87f4f802300d83e4ebf9310c7b6</sys_update_name>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-28 06:35:20</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 27/08/2018 05:18:25">4cacd87f4f802300d83e4ebf9310c7b3</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 12:18:25</sys_created_on>
+                                <sys_id>00acd87f4f802300d83e4ebf9310c7b5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 12:18:25</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 27/08/2018 05:18:25">4cacd87f4f802300d83e4ebf9310c7b3</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 12:18:25</sys_created_on>
+                                <sys_id>0cacd87f4f802300d83e4ebf9310c7b5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 12:18:25</sys_updated_on>
+                                <value>694 Passed due date chart</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 27/08/2018 05:18:25">4cacd87f4f802300d83e4ebf9310c7b3</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 12:18:25</sys_created_on>
+                                <sys_id>48acd87f4f802300d83e4ebf9310c7b5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 12:18:25</sys_updated_on>
+                                <value>bar</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 27/08/2018 05:18:25">4cacd87f4f802300d83e4ebf9310c7b3</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 12:18:25</sys_created_on>
+                                <sys_id>84acd87f4f802300d83e4ebf9310c7b4</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 12:18:25</sys_updated_on>
+                                <value>3fb898fb4f802300d83e4ebf9310c7f4</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 27/08/2018 05:18:25">4cacd87f4f802300d83e4ebf9310c7b3</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 12:18:25</sys_created_on>
+                                <sys_id>84acd87f4f802300d83e4ebf9310c7b5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 12:18:25</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 27/08/2018 05:18:25">4cacd87f4f802300d83e4ebf9310c7b3</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 12:18:25</sys_created_on>
+                                <sys_id>c0acd87f4f802300d83e4ebf9310c7b5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 12:18:25</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">28351b2b4f002300d83e4ebf9310c7ac</page>
+                        <summary>694 Close to due date list</summary>
+                        <sys_created_by>Rakesh</sys_created_by>
+                        <sys_created_on>2018-08-27 07:07:21</sys_created_on>
+                        <sys_id>9f655be74f002300d83e4ebf9310c7fb</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Rakesh</sys_updated_by>
+                        <sys_updated_on>2018-08-27 07:07:21</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">64351b2b4f002300d83e4ebf9310c7ad</grid_canvas>
+                                <height>12</height>
+                                <portal_widget display_value="Created 27/08/2018 00:07:21">9f655be74f002300d83e4ebf9310c7fb</portal_widget>
+                                <posx>0</posx>
+                                <posy>14</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:21</sys_created_on>
+                                <sys_id>db655be74f002300d83e4ebf9310c7fd</sys_id>
+                                <sys_mod_count>20</sys_mod_count>
+                                <sys_name>64351b2b4f002300d83e4ebf9310c7ad</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_db655be74f002300d83e4ebf9310c7fd</sys_update_name>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-28 06:35:08</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 27/08/2018 00:07:21">9f655be74f002300d83e4ebf9310c7fb</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:21</sys_created_on>
+                                <sys_id>13655be74f002300d83e4ebf9310c7fd</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:07:21</sys_updated_on>
+                                <value>list</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 27/08/2018 00:07:21">9f655be74f002300d83e4ebf9310c7fb</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:21</sys_created_on>
+                                <sys_id>5f655be74f002300d83e4ebf9310c7fc</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:07:21</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 27/08/2018 00:07:21">9f655be74f002300d83e4ebf9310c7fb</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:21</sys_created_on>
+                                <sys_id>93655be74f002300d83e4ebf9310c7fc</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:07:21</sys_updated_on>
+                                <value>14fe07274f002300d83e4ebf9310c797</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 27/08/2018 00:07:21">9f655be74f002300d83e4ebf9310c7fb</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:21</sys_created_on>
+                                <sys_id>9b655be74f002300d83e4ebf9310c7fc</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:07:21</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 27/08/2018 00:07:21">9f655be74f002300d83e4ebf9310c7fb</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:21</sys_created_on>
+                                <sys_id>d3655be74f002300d83e4ebf9310c7fd</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:07:21</sys_updated_on>
+                                <value>694 Close to due date list</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 27/08/2018 00:07:21">9f655be74f002300d83e4ebf9310c7fb</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-27 07:07:21</sys_created_on>
+                                <sys_id>d7655be74f002300d83e4ebf9310c7fc</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-27 07:07:21</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">28351b2b4f002300d83e4ebf9310c7ac</page>
+                        <summary>694 Close to due date chart</summary>
+                        <sys_created_by>Rakesh</sys_created_by>
+                        <sys_created_on>2018-08-28 06:33:46</sys_created_on>
+                        <sys_id>3057d8884f102300d83e4ebf9310c7f8</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Rakesh</sys_updated_by>
+                        <sys_updated_on>2018-08-28 06:33:46</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">64351b2b4f002300d83e4ebf9310c7ad</grid_canvas>
+                                <height>12</height>
+                                <portal_widget display_value="Created 27/08/2018 23:33:46">3057d8884f102300d83e4ebf9310c7f8</portal_widget>
+                                <posx>6</posx>
+                                <posy>14</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-28 06:33:46</sys_created_on>
+                                <sys_id>fc57d8884f102300d83e4ebf9310c7fa</sys_id>
+                                <sys_mod_count>10</sys_mod_count>
+                                <sys_name>64351b2b4f002300d83e4ebf9310c7ad</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_fc57d8884f102300d83e4ebf9310c7fa</sys_update_name>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-28 06:35:17</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 27/08/2018 23:33:46">3057d8884f102300d83e4ebf9310c7f8</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-28 06:33:46</sys_created_on>
+                                <sys_id>3857d8884f102300d83e4ebf9310c7f9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-28 06:33:46</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 27/08/2018 23:33:46">3057d8884f102300d83e4ebf9310c7f8</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-28 06:33:46</sys_created_on>
+                                <sys_id>7057d8884f102300d83e4ebf9310c7fa</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-28 06:33:46</sys_updated_on>
+                                <value>694 Close to due date chart</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 27/08/2018 23:33:46">3057d8884f102300d83e4ebf9310c7f8</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-28 06:33:46</sys_created_on>
+                                <sys_id>7457d8884f102300d83e4ebf9310c7f9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-28 06:33:46</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 27/08/2018 23:33:46">3057d8884f102300d83e4ebf9310c7f8</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-28 06:33:46</sys_created_on>
+                                <sys_id>b857d8884f102300d83e4ebf9310c7f8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-28 06:33:46</sys_updated_on>
+                                <value>b38d4c084f102300d83e4ebf9310c7e0</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 27/08/2018 23:33:46">3057d8884f102300d83e4ebf9310c7f8</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-28 06:33:46</sys_created_on>
+                                <sys_id>bc57d8884f102300d83e4ebf9310c7f9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-28 06:33:46</sys_updated_on>
+                                <value>donut</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 27/08/2018 23:33:46">3057d8884f102300d83e4ebf9310c7f8</portal_section>
+                                <sys_created_by>Rakesh</sys_created_by>
+                                <sys_created_on>2018-08-28 06:33:46</sys_created_on>
+                                <sys_id>f857d8884f102300d83e4ebf9310c7f9</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>Rakesh</sys_updated_by>
+                                <sys_updated_on>2018-08-28 06:33:46</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">64351b2b4f002300d83e4ebf9310c7ad</grid_canvas>
+                <height>14</height>
+                <portal_widget display_value="Created 27/08/2018 00:07:56">4c955f2b4f002300d83e4ebf9310c716</portal_widget>
+                <posx>0</posx>
+                <posy>26</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>Rakesh</sys_created_by>
+                <sys_created_on>2018-08-27 07:07:56</sys_created_on>
+                <sys_id>88955f2b4f002300d83e4ebf9310c718</sys_id>
+                <sys_mod_count>26</sys_mod_count>
+                <sys_name>64351b2b4f002300d83e4ebf9310c7ad</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_88955f2b4f002300d83e4ebf9310c718</sys_update_name>
+                <sys_updated_by>Rakesh</sys_updated_by>
+                <sys_updated_on>2018-08-28 06:36:41</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">64351b2b4f002300d83e4ebf9310c7ad</grid_canvas>
+                <height>14</height>
+                <portal_widget display_value="Created 27/08/2018 05:18:25">4cacd87f4f802300d83e4ebf9310c7b3</portal_widget>
+                <posx>6</posx>
+                <posy>26</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>Rakesh</sys_created_by>
+                <sys_created_on>2018-08-27 12:18:26</sys_created_on>
+                <sys_id>88acd87f4f802300d83e4ebf9310c7b6</sys_id>
+                <sys_mod_count>17</sys_mod_count>
+                <sys_name>64351b2b4f002300d83e4ebf9310c7ad</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_88acd87f4f802300d83e4ebf9310c7b6</sys_update_name>
+                <sys_updated_by>Rakesh</sys_updated_by>
+                <sys_updated_on>2018-08-28 06:35:20</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">64351b2b4f002300d83e4ebf9310c7ad</grid_canvas>
+                <height>12</height>
+                <portal_widget display_value="Created 27/08/2018 00:07:21">9f655be74f002300d83e4ebf9310c7fb</portal_widget>
+                <posx>0</posx>
+                <posy>14</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>Rakesh</sys_created_by>
+                <sys_created_on>2018-08-27 07:07:21</sys_created_on>
+                <sys_id>db655be74f002300d83e4ebf9310c7fd</sys_id>
+                <sys_mod_count>20</sys_mod_count>
+                <sys_name>64351b2b4f002300d83e4ebf9310c7ad</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_db655be74f002300d83e4ebf9310c7fd</sys_update_name>
+                <sys_updated_by>Rakesh</sys_updated_by>
+                <sys_updated_on>2018-08-28 06:35:08</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">64351b2b4f002300d83e4ebf9310c7ad</grid_canvas>
+                <height>12</height>
+                <portal_widget display_value="Created 27/08/2018 23:33:46">3057d8884f102300d83e4ebf9310c7f8</portal_widget>
+                <posx>6</posx>
+                <posy>14</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>Rakesh</sys_created_by>
+                <sys_created_on>2018-08-28 06:33:46</sys_created_on>
+                <sys_id>fc57d8884f102300d83e4ebf9310c7fa</sys_id>
+                <sys_mod_count>10</sys_mod_count>
+                <sys_name>64351b2b4f002300d83e4ebf9310c7ad</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_fc57d8884f102300d83e4ebf9310c7fa</sys_update_name>
+                <sys_updated_by>Rakesh</sys_updated_by>
+                <sys_updated_on>2018-08-28 06:35:17</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+        </related_items_node>
+    </sys_grid_canvas>
+</record_update>
